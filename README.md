@@ -1,1 +1,5 @@
-To do: nothing---this will have to be written in statically typed language
+To do: nothing
+
+---
+
+This will have to be written in a statically typed language
