@@ -1,1 +1,1 @@
-To do: create a constructor and group each method within a class
+To do: nothing---this will have to be written in statically typed language
